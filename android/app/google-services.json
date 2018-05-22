@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "680351102143",
+    "firebase_url": "https://blocklink-da957.firebaseio.com",
+    "project_id": "blocklink-da957",
+    "storage_bucket": "blocklink-da957.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:680351102143:android:d782aef0505794b6",
+        "android_client_info": {
+          "package_name": "com.blocklinks"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "680351102143-1u4rhcios4i6b9h0ghbl4mu04vppn2m4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClqGoID27QILMv3jY0MrRet9zjFAqBFyE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
